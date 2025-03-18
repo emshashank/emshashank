@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shashank
-- 👀 I’m interested in software development in javascript and java
-- 🌱 I’m currently exploring latest in js/java dev
+- 👀 I’m interested in software & solution development
+- 🌱 I’m currently exploring latest in genai
 - 📫 How to reach me emails.shashank@gmail.com
 
 <!---
